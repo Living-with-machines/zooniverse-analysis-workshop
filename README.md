@@ -1,4 +1,4 @@
-# Introduction to Jupyter Notebooks: the weird and the wonderful
+# Zooniverse: how to download and analyse your task annotations
 
 <!-- TODO: insert DOI -->
 
