@@ -9,6 +9,10 @@ Zooniverse is probably the world’s most popular crowdsourcing platform, used b
 
 If you are new to Jupyter Notebooks, may we suggest Daniel van Strien's ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
 
+<!-- Suggested by @mialondon in PR #3:
+## How to open Notebooks from GitHub
+[Note that we'll need to provide instructions for running Notebooks in a way that you can also work with local data files]
+-->
 
 ## Aims
 * Learn how to download Zooniverse data
