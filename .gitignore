@@ -1,4 +1,6 @@
 .ipynb_checkpoints
 .DS_Store
+test-files/private
 
 annotations_unpacked_no_snippets.csv
+annotations_unpacked.csv
