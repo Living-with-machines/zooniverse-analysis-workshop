@@ -70,7 +70,7 @@ As an example, if you saved the `classifications.csv` and `subjects.csv` files i
 
 
 Now let's head over to the real notebook:
-add link
+////add link////
 <!-- #endregion -->
 
 <!-- #region -->
@@ -82,7 +82,7 @@ If you want to know more about Notebooks and set up alternative systems, like in
 However, for the purposes of this workshop, we will work on Colab.
 
 To open the Colab Notebook follow this link:
-https://drive.google.com/file/d/1_Zlbo3F1b68V8trIVzOII2QQmOWHo-Hn/view?usp=sharing
+////add link////
 
 
 ### 1. Upload the annotations
@@ -93,7 +93,7 @@ If it is hidden you can click on the icon of the folder.
 
 <img src="images/annotations-json-to-csv/8-colab-upload.png?raw=true" alt="A screenshot that shows where to drag the files in the colab interface" style="max-width:75%;" title="Screenshot of the colab interface and where to upload the files." />
 
-Drag and drop your files in the `Sample Data` folder.
+Drag and drop your files in the `sample_data` folder.
 
 Now you are ready to start processing your data. To do so let's move to the notebook.
 <!-- #endregion -->
