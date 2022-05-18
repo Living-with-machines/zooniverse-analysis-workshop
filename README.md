@@ -6,11 +6,11 @@ Materials for a British Library, Digital Scholarship "hack and yack" workshop.
 
 Zooniverse is probably the world’s most popular crowdsourcing platform, used by dozens of cultural heritage organisations. But the resulting annotations from Zooniverse can be hard to use ‘as is’. Do you want to learn how to turn Zooniverse data into something you can use in catalogues, on web pages or in research? Then this session is for you! Zooniverse: how to download and analyse your task annotations will introduce the widely used Zooniverse platform and the services it offers, and share new developments in using the Library’s IIIF items on Zooniverse. Then we get hands-on! You’ll learn how to process your annotations to obtain a clean and readable spreadsheet for your project.
 
-If you are new to Jupyter Notebooks, may we suggest Daniel van Strien's ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
+If you are new to Jupyter Notebooks, may we suggest Daniel van Strien’s ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
 
 <!-- Suggested by @mialondon in PR #3:
 ## How to open Notebooks from GitHub
-[Note that we'll need to provide instructions for running Notebooks in a way that you can also work with local data files]
+[Note that we’ll need to provide instructions for running Notebooks in a way that you can also work with local data files]
 -->
 
 ## Aims
@@ -69,13 +69,13 @@ Now, in the following cell, which is a Notebook cell registering your variable, 
 
 As an example, if you saved the `classifications.csv` and `subjects.csv` files in the `Downloads` folder above (like in the screenshot), you might want to change the lines below to:
 
-Now let's head over to the real notebook: //// TODO: add link////
+Now let’s head over to the real notebook: //// TODO: add link////
 
 ## Open the Jupyter Notebook on Colab
 
 Running a Jupyter Notebook might seem a bit confusing at the beginning. For this reason we have saved a version in Colab, a Google product that allows anybody to write and execute arbitrary Python code through the browser, and is especially well suited to machine learning, data analysis and education.
 
-If you want to know more about Notebooks and set up alternative systems, like installing Anaconda and running the Notebook on your machine, we suggest to look at Daniel van Strien's tutorial ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
+If you want to know more about Notebooks and set up alternative systems, like installing Anaconda and running the Notebook on your machine, we suggest to look at Daniel van Strien’s tutorial ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
 
 However, for the purposes of this workshop, we will work on Colab.
 
@@ -91,4 +91,4 @@ If it is hidden you can click on the icon of the folder.
 
 Drag and drop your files in the `sample_data` folder.
 
-Now you are ready to start processing your data. To do so let's move to the notebook.
+Now you are ready to start processing your data. To do so let’s move to the notebook.
