@@ -58,15 +58,11 @@ For each of those two files, right-click and choose "Save Link As..."
 
 <img src="images/6-save-link-as.png?raw=true" alt="A screenshot that shows the popup menu to save CSV file from your browser in the correct directory" style="max-width:30%;" title="Screenshot of the menu that shows the option Save Link As..." />
 
-Finally, you can save the file wherever you want on your computer, but remember the correct path to the files as you will need to fill them out in the next cell! _We suggest that you save the files with the names `classifications.csv` and `subjects.csv` in your `Downloads` folder._
+Finally, you can save the file wherever you want on your computer, but remember the correct path to the files as you will need to fill them out in the next cell! _We suggest that you save the files with the names `classifications.csv` and `subjects.csv` in your `Downloads` folder as you will easily remember where you put them if you do so._
 
 <img src="images/7-rename.png?raw=true" alt="A screenshot that shows the renaming process of the CSV file" style="max-width:30%;" title="Screenshot of the download file dialog" />
 
-Now, in the following cell, which is a Notebook cell registering your variable, we need you to fill in the path to the classifications file (as the `classifications_file` variable) and the subject file (as the `subjects_file` variable).
-
-As an example, if you saved the `classifications.csv` and `subjects.csv` files in the `Downloads` folder above (like in the screenshot), you might want to change the lines below to:
-
-Now let’s head over to the real notebook: //// TODO: add link////
+Now, in the first cell in our notebook, we will register the path to the classifications file (as the `classifications_file` variable) and the subject file (as the `subjects_file` variable). All that information is included in the notebook itself.
 
 ## Open the Jupyter Notebook
 
@@ -78,7 +74,9 @@ If you want to know more about Notebooks and set up alternative systems, like in
 
 However, for the purposes of this workshop, we will work on Colab.
 
-To open the Colab Notebook, follow this link: //// TODO: add link ////
+To open the Colab Notebook, follow this link:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb)
 
 Once you are inside your Colab Notebook, you need to upload the data. On the left side of the Colab interface you will see a folder called `Sample Data`. If it is hidden you can click on the icon of the folder:
 
