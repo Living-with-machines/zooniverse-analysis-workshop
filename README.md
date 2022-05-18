@@ -8,11 +8,6 @@ Zooniverse is probably the world’s most popular crowdsourcing platform, used b
 
 If you are new to Jupyter Notebooks, may we suggest Daniel van Strien’s ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
 
-<!-- Suggested by @mialondon in PR #3:
-## How to open Notebooks from GitHub
-[Note that we’ll need to provide instructions for running Notebooks in a way that you can also work with local data files]
--->
-
 ## Aims
 
 * Learn how to download Zooniverse data
@@ -71,7 +66,9 @@ As an example, if you saved the `classifications.csv` and `subjects.csv` files i
 
 Now let’s head over to the real notebook: //// TODO: add link////
 
-## Open the Jupyter Notebook on Colab
+## Open the Jupyter Notebook
+
+### Option 1: Colab
 
 Running a Jupyter Notebook might seem a bit confusing at the beginning. For this reason we have saved a version in Colab, a Google product that allows anybody to write and execute arbitrary Python code through the browser, and is especially well suited to machine learning, data analysis and education.
 
@@ -79,16 +76,21 @@ If you want to know more about Notebooks and set up alternative systems, like in
 
 However, for the purposes of this workshop, we will work on Colab.
 
-To open the Colab Notebook follow this link: //// TODO: add link ////
+To open the Colab Notebook, follow this link: //// TODO: add link ////
 
-### 1. Upload the annotations
-
-First, we need to upload the data.
-On the left side of the Colab interface you might see there is a folder called `Sample Data`.
-If it is hidden you can click on the icon of the folder.
+Once you are inside your Colab Notebook, you need to upload the data. On the left side of the Colab interface you will see a folder called `Sample Data`. If it is hidden you can click on the icon of the folder:
 
 <img src="images/annotations-json-to-csv/8-colab-upload.png?raw=true" alt="A screenshot that shows where to drag the files in the colab interface" style="max-width:75%;" title="Screenshot of the colab interface and where to upload the files." />
 
 Drag and drop your files in the `sample_data` folder.
 
 Now you are ready to start processing your data. To do so let’s move to the notebook.
+
+### Option 2: On your own computer
+
+TODO: Write intro + expand list below. Note that this is a little bit more involved and requires a pre-existing installation of Jupyter Notebooks and Python on your computer. <!-- As suggested by @mialondon in PR #3 -->
+
+1. Terminal: Clone repository + `cd` (note what @mialondon suggested in #4 that we may need specific instructions for mac/Windows here)
+2. Move your classifications + subjects into the folder (or know where they are located on your computer)
+3. `jupyter notebook` command
+4. Now, you are ready to start processing your data.
