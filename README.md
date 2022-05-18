@@ -12,9 +12,11 @@ If you are new to Jupyter Notebooks, may we suggest Daniel van Strien’s ["Intr
 
 * Learn how to download Zooniverse data
 * Learn how to run a Jupyter notebook
-* Process your zooniverse data and obtain a .CSV file
+* Process your zooniverse data and obtain a `.csv` file
 
 ## Downloading Zooniverse data
+
+If you have your own Zooniverse data, we need to start by downloading the data that you may have available. In the following steps, we have used a Mac, but if you have a Windows computer, the steps should be similar since you will be using your web browser. The most important part of this first instruction of our processing of your ZOoniverse data is to remember where you store the files locally (see step 6 below).
 
 ### 1. Log in
 
