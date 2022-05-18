@@ -1,5 +1,7 @@
 # Zooniverse: how to download and analyse your task annotations
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb)
+
 <!-- TODO: insert DOI -->
 
 Materials for a British Library, Digital Scholarship "hack and yack" workshop.
@@ -84,7 +86,11 @@ Once you are inside your Colab Notebook, you need to upload the data. On the lef
 
 Drag and drop your files in the `sample_data` folder.
 
-Now you are ready to start processing your data. To do so let’s move to the notebook.
+Now you are ready to start processing your data. To do so let’s move to [the notebook](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb).
+
+_First_, note that if you run the Colab, you will need to select "Run anyway" in this warning that will show up in your browser:
+
+<img src="images/9-colab-warning.png?raw=true" alt="A screenshot that shows the warning message displayed by Google Colab" style="max-width:50%;" title="Screenshot of Colab's warning dialog" />
 
 <!--
 ### Option 2: On your own computer
