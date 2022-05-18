@@ -1,4 +1,3 @@
-<!-- #region -->
 # Zooniverse: how to download and analyse your task annotations
 
 <!-- TODO: insert DOI -->
@@ -15,10 +14,10 @@ If you are new to Jupyter Notebooks, may we suggest Daniel van Strien's ["Introd
 -->
 
 ## Aims
+
 * Learn how to download Zooniverse data
 * Learn how to run a Jupyter notebook
 * Process your zooniverse data and obtain a .CSV file
-
 
 ## Downloading Zooniverse data
 
@@ -70,24 +69,17 @@ Now, in the following cell, which is a Notebook cell registering your variable, 
 
 As an example, if you saved the `classifications.csv` and `subjects.csv` files in the `Downloads` folder above (like in the screenshot), you might want to change the lines below to:
 
+Now let's head over to the real notebook: //// TODO: add link////
 
-
-
-Now let's head over to the real notebook:
-////add link////
-<!-- #endregion -->
-
-<!-- #region -->
 ## Open the Jupyter Notebook on Colab
-Running a Jupyter Notebook might seem a bit confusing at the beginning. For this reason we have saved a version in Colab, a Google product that allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education.
+
+Running a Jupyter Notebook might seem a bit confusing at the beginning. For this reason we have saved a version in Colab, a Google product that allows anybody to write and execute arbitrary Python code through the browser, and is especially well suited to machine learning, data analysis and education.
 
 If you want to know more about Notebooks and set up alternative systems, like installing Anaconda and running the Notebook on your machine, we suggest to look at Daniel van Strien's tutorial ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
 
 However, for the purposes of this workshop, we will work on Colab.
 
-To open the Colab Notebook follow this link:
-////add link////
-
+To open the Colab Notebook follow this link: //// TODO: add link ////
 
 ### 1. Upload the annotations
 
@@ -100,8 +92,3 @@ If it is hidden you can click on the icon of the folder.
 Drag and drop your files in the `sample_data` folder.
 
 Now you are ready to start processing your data. To do so let's move to the notebook.
-<!-- #endregion -->
-
-```python
-
-```
