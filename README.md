@@ -26,25 +26,25 @@ First, [log in to Zooniverse](https://www.zooniverse.org/accounts/sign-in) as yo
 
 Next, [navigate to the Zooniverse lab page](https://www.zooniverse.org/lab). On the page, you will see the projects where you are a collaborator:
 
-<img src="images/annotations-json-to-csv/1-zooniverse-lab.png?raw=true" alt="A screenshot of the Zooniverse lab page" style="max-width:75%;" title="Screenshot of Zooniverse lab page" />
+<img src="images/1-zooniverse-lab.png?raw=true" alt="A screenshot of the Zooniverse lab page" style="max-width:75%;" title="Screenshot of Zooniverse lab page" />
 
 ### 3. Navigate to "Data Exports"
 
 Next, click "Data Exports" in the right-hand menu bar:
 
-<img src="images/annotations-json-to-csv/2-data-exports.png?raw=true" alt="A screenshot that shows where in the right-hand menu bar you will find the Data Exports option" style="max-width:75%;" title="Screenshot of Zooniverse lab splash page" />
+<img src="images/2-data-exports.png?raw=true" alt="A screenshot that shows where in the right-hand menu bar you will find the Data Exports option" style="max-width:75%;" title="Screenshot of Zooniverse lab splash page" />
 
 ### 4. Request relevant exports
 
 Next, you will want to press the two buttons for "Request new classification export" and "Request new subject export":
 
-<img src="images/annotations-json-to-csv/3-data-exports-requests.png?raw=true" alt="A screenshot that shows the relevant buttons to press on the Zooniverse Data Exports page" style="max-width:75%;" title="Screenshot of Zooniverse Data Exports page" />
+<img src="images/3-data-exports-requests.png?raw=true" alt="A screenshot that shows the relevant buttons to press on the Zooniverse Data Exports page" style="max-width:75%;" title="Screenshot of Zooniverse Data Exports page" />
 
 ### 5. Await the completed download
 
 Your export might take a little while, but you will receive an email once your request is completed:
 
-<img src="images/annotations-json-to-csv/4-confirmation-email.png?raw=true" alt="A screenshot that shows the confirmation email received when data export request has been completed" style="max-width:75%;" title="Screenshot of the confirmation email" />
+<img src="images/4-confirmation-email.png?raw=true" alt="A screenshot that shows the confirmation email received when data export request has been completed" style="max-width:75%;" title="Screenshot of the confirmation email" />
 
 ### 6. Download the relevant files
 
@@ -52,15 +52,15 @@ Note that clicking the link "Download from your lab data exports page" in the co
 
 Once you are back to the page, you need to use the correct links on the page to download the relevant CSV files:
 
-<img src="images/annotations-json-to-csv/5-request-completed.png?raw=true" alt="A screenshot that shows the data export request completed on the Data Exports page" style="max-width:75%;" title="Screenshot of the Data Exports page with the relevant links" />
+<img src="images/5-request-completed.png?raw=true" alt="A screenshot that shows the data export request completed on the Data Exports page" style="max-width:75%;" title="Screenshot of the Data Exports page with the relevant links" />
 
 For each of those two files, right-click and choose "Save Link As..."
 
-<img src="images/annotations-json-to-csv/6-save-link-as.png?raw=true" alt="A screenshot that shows the popup menu to save CSV file from your browser in the correct directory" style="max-width:30%;" title="Screenshot of the menu that shows the option Save Link As..." />
+<img src="images/6-save-link-as.png?raw=true" alt="A screenshot that shows the popup menu to save CSV file from your browser in the correct directory" style="max-width:30%;" title="Screenshot of the menu that shows the option Save Link As..." />
 
 Finally, you can save the file wherever you want on your computer, but remember the correct path to the files as you will need to fill them out in the next cell! _We suggest that you save the files with the names `classifications.csv` and `subjects.csv` in your `Downloads` folder._
 
-<img src="images/annotations-json-to-csv/7-rename.png?raw=true" alt="A screenshot that shows the renaming process of the CSV file" style="max-width:30%;" title="Screenshot of the download file dialog" />
+<img src="images/7-rename.png?raw=true" alt="A screenshot that shows the renaming process of the CSV file" style="max-width:30%;" title="Screenshot of the download file dialog" />
 
 Now, in the following cell, which is a Notebook cell registering your variable, we need you to fill in the path to the classifications file (as the `classifications_file` variable) and the subject file (as the `subjects_file` variable).
 
@@ -82,17 +82,19 @@ To open the Colab Notebook, follow this link: //// TODO: add link ////
 
 Once you are inside your Colab Notebook, you need to upload the data. On the left side of the Colab interface you will see a folder called `Sample Data`. If it is hidden you can click on the icon of the folder:
 
-<img src="images/annotations-json-to-csv/8-colab-upload.png?raw=true" alt="A screenshot that shows where to drag the files in the colab interface" style="max-width:75%;" title="Screenshot of the colab interface and where to upload the files." />
+<img src="images/8-colab-upload.png?raw=true" alt="A screenshot that shows where to drag the files in the colab interface" style="max-width:75%;" title="Screenshot of the colab interface and where to upload the files." />
 
 Drag and drop your files in the `sample_data` folder.
 
 Now you are ready to start processing your data. To do so let’s move to the notebook.
 
+<!--
 ### Option 2: On your own computer
 
-TODO: Write intro + expand list below. Note that this is a little bit more involved and requires a pre-existing installation of Jupyter Notebooks and Python on your computer. <!-- As suggested by @mialondon in PR #3 -->
+TODO: Write intro + expand list below. Note that this is a little bit more involved and requires a pre-existing installation of Jupyter Notebooks and Python on your computer. As suggested by @mialondon in PR #3
 
 1. Terminal: Clone repository + `cd` (note what @mialondon suggested in #4 that we may need specific instructions for mac/Windows here)
 2. Move your classifications + subjects into the folder (or know where they are located on your computer)
 3. `jupyter notebook` command
 4. Now, you are ready to start processing your data.
+-->
