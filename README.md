@@ -105,27 +105,27 @@ However, for the purposes of this workshop, we will work on Colab.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb)
 
 #### :pushpin: Upload your annotations to the Colab Notebook
-:pushpin: Once you are inside your Colab Notebook, you need to upload the data. On the left side of the Colab interface you will see a folder called `Sample Data`. If it is hidden you can click on the icon of the folder:
+Once you are inside your Colab Notebook, you need to upload the data. On the left side of the Colab interface you will see a folder called `Sample Data`. If it is hidden you can click on the icon of the folder:
 
 <img src="images/8-colab-upload.png?raw=true" alt="A screenshot that shows where to drag the files in the colab interface" style="max-width:75%;" title="Screenshot of the colab interface and where to upload the files." />
 
-:pushpin: Drag and drop your files in the `sample_data` folder.
+Drag and drop your files in the `sample_data` folder.
 
-:pushpin: Now you are ready to start processing your data. To do so let’s move to [the notebook](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb).
+Now you are ready to start processing your data. To do so let’s move to [the notebook](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb).
 
 
 #### :pushpin: Run the Colab Notebook
-:pushpin: At this point, you simply need to click on `Runtime` and `Run all` (as suggested in the following screenshot)
+At this point, you simply need to click on `Runtime` and `Run all` (as suggested in the following screenshot)
 
 <img src="images/10-run-all.png?raw=true" alt="A screenshot that shows how to run all the cells of a notebook in Google Colab" style="max-width:50%;" title="Screenshot of Colab's runtime options" />
 
-:pushpin: _First_, note that if you run the Colab, you will need to select "Run anyway" in this warning that will show up in your browser:
+_First_, note that if you run the Colab, you will need to select "Run anyway" in this warning that will show up in your browser:
 
 <img src="images/9-colab-warning.png?raw=true" alt="A screenshot that shows the warning message displayed by Google Colab" style="max-width:50%;" title="Screenshot of Colab's warning dialog" />
 
 #### :pushpin: Export your annotations
 
-:pushpin: Once your notebook has finised processing the annotations, you'll see appearing your file on the `Sample Data` folder on the left side of your notebook. If you don't see it, just hover over the folder icon and the section will expand. 
+Once your notebook has finised processing the annotations, you'll see appearing your file on the `Sample Data` folder on the left side of your notebook. If you don't see it, just hover over the folder icon and the section will expand. 
 
 To download your annotations simply click on the three dots at the right and select download. This way you'll save a version of the processed annotations on your local machine. 
 
