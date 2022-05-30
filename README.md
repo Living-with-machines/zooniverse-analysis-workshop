@@ -8,6 +8,17 @@ Materials for a [British Library, Digital Scholarship](https://bl.uk/digital) "h
 
 [Zooniverse](https://www.zooniverse.org/) is probably the world’s most popular crowdsourcing platform, used by dozens of cultural heritage organisations. But the resulting annotations from Zooniverse can be hard to use ‘as is’. Do you want to learn how to turn Zooniverse data into something you can use in catalogues, on web pages or in research? Then this session is for you! Zooniverse: how to download and analyse your task annotations will introduce the widely used Zooniverse platform and the services it offers, and share new developments in using the Library’s IIIF items on Zooniverse. Then we get hands-on! You’ll learn how to process your annotations to obtain a clean and readable spreadsheet for your project.
 
+The following tutorial has been created both for people without prior knowledge of Python and Jupyter Notebooks and for those who have a basic or advanced knowledge. 
+
+If you feel you belong to the first type of audience, do not feel daunted by the code that will follow. You can simply focus on the following three main steps, which we will cover in more depth in the tutorial.
+For your convenience, you'll recognise these steps as they are anticipated by a :pushpin:
+
+1. Downloading annotations from zooniverse
+2. Uploading the annotations to the Notebook
+3. Exporting the outpu
+
+
+
 If you are new to Jupyter Notebooks, may we suggest Daniel van Strien’s ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
 
 ## Aims
@@ -16,7 +27,7 @@ If you are new to Jupyter Notebooks, may we suggest Daniel van Strien’s ["Intr
 * Learn how to run a Jupyter notebook
 * Process your zooniverse data and obtain a `.csv` file
 
-## Downloading Zooniverse data
+## :pushpin: Downloading Zooniverse data
 
 If you have your own Zooniverse data, we need to start by downloading the data that you may have available. In the following steps, we have used a Mac, but if you have a Windows computer, the steps should be similar since you will be using your web browser. The most important part of this first instruction of our processing of your ZOoniverse data is to remember where you store the files locally (see step 6 below).
 
@@ -76,17 +87,17 @@ If you want to know more about Notebooks and set up alternative systems, like in
 
 However, for the purposes of this workshop, we will work on Colab.
 
-To open the Colab Notebook, follow this link:
+:pushpin: To open the Colab Notebook, follow this link:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb)
 
-Once you are inside your Colab Notebook, you need to upload the data. On the left side of the Colab interface you will see a folder called `Sample Data`. If it is hidden you can click on the icon of the folder:
+:pushpin: Once you are inside your Colab Notebook, you need to upload the data. On the left side of the Colab interface you will see a folder called `Sample Data`. If it is hidden you can click on the icon of the folder:
 
 <img src="images/8-colab-upload.png?raw=true" alt="A screenshot that shows where to drag the files in the colab interface" style="max-width:75%;" title="Screenshot of the colab interface and where to upload the files." />
 
-Drag and drop your files in the `sample_data` folder.
+:pushpin: Drag and drop your files in the `sample_data` folder.
 
-Now you are ready to start processing your data. To do so let’s move to [the notebook](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb).
+:pushpin: Now you are ready to start processing your data. To do so let’s move to [the notebook](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb).
 
 _First_, note that if you run the Colab, you will need to select "Run anyway" in this warning that will show up in your browser:
 
