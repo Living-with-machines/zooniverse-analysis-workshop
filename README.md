@@ -69,7 +69,9 @@ Next, you will want to press the two buttons for "Request new classification exp
 
 Your export might take a little while, but you will receive an email once your request is completed:
 
-<img src="images/4-confirmation-email.png?raw=true" alt="A screenshot that shows the confirmation email received when data export request has been completed" style="max-width:75%;" title="Screenshot of the confirmation email" />
+<p align="center">
+<img src="images/4-confirmation-email.png?raw=true" alt="A screenshot that shows the confirmation email received when data export request has been completed" style="width:400px;" title="Screenshot of the confirmation email" />
+</p>
 
 ### 6. :pushpin: Download the relevant files
 
@@ -81,11 +83,15 @@ Once you are back to the page, you need to use the correct links on the page to 
 
 For each of those two files, right-click and choose "Save Link As..."
 
-<img src="images/6-save-link-as.png?raw=true" alt="A screenshot that shows the popup menu to save CSV file from your browser in the correct directory" style="max-width:30%;" title="Screenshot of the menu that shows the option Save Link As..." />
+<p align="center">
+<img src="images/6-save-link-as.png?raw=true" alt="A screenshot that shows the popup menu to save CSV file from your browser in the correct directory" style="width:400px;" title="Screenshot of the menu that shows the option Save Link As..." />
+</p>
 
 Finally, you can save the file wherever you want on your computer, but remember the correct path to the files as you will need to fill them out in the next cell! _We suggest that you save the files with the names `classifications.csv` and `subjects.csv` in your `Downloads` folder as you will easily remember where you put them if you do so._
 
-<img src="images/7-rename.png?raw=true" alt="A screenshot that shows the renaming process of the CSV file" style="max-width:30%;" title="Screenshot of the download file dialog" />
+<p align="center">
+<img src="images/7-rename.png?raw=true" alt="A screenshot that shows the renaming process of the CSV file" style="width:400px;" title="Screenshot of the download file dialog" />
+</p>
 
 Now, in the first cell in our notebook, we will register the path to the classifications file (as the `classifications_file` variable) and the subject file (as the `subjects_file` variable). All that information is included in the notebook itself.
 
@@ -129,8 +135,9 @@ Once your notebook has finised processing the annotations, you'll see appearing 
 
 To download your annotations simply click on the three dots at the right and select download. This way you'll save a version of the processed annotations on your local machine. 
 
+<p align="center">
 <img src="images/11-download.png?raw=true" alt="A screenshot that shows how to download your processed annotations from Google Colab" style="width:400px; align:center;" title="Screenshot of Colab's download button" />
-
+</p>
 
 <!--
 ### Option 2: On your own computer
