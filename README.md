@@ -52,7 +52,7 @@ First, [log in to Zooniverse](https://www.zooniverse.org/accounts/sign-in) as yo
 Next, [navigate to the Zooniverse lab page](https://www.zooniverse.org/lab). On the page, you will see the projects where you are a collaborator:
 
 <p align="center">
-<img src="images/1-zooniverse-lab.png?raw=true" alt="A screenshot of the Zooniverse lab page" style="max-width:75%;" title="Screenshot of Zooniverse lab page" />
+<img src="images/1-zooniverse-lab.png?raw=true" alt="A screenshot of the Zooniverse lab page" style="width:800px" title="Screenshot of Zooniverse lab page" />
 </p>
 
 ### 3. :pushpin: Navigate to "Data Exports"
@@ -60,7 +60,7 @@ Next, [navigate to the Zooniverse lab page](https://www.zooniverse.org/lab). On 
 Next, click "Data Exports" in the right-hand menu bar:
 
 <p align="center">
-<img src="images/2-data-exports.png?raw=true" alt="A screenshot that shows where in the right-hand menu bar you will find the Data Exports option" style="width:1000px;" title="Screenshot of Zooniverse lab splash page" />
+<img src="images/2-data-exports.png?raw=true" alt="A screenshot that shows where in the right-hand menu bar you will find the Data Exports option" style="width:800px;" title="Screenshot of Zooniverse lab splash page" />
 </p>
 
 ### 4. :pushpin: Request relevant exports
@@ -68,7 +68,7 @@ Next, click "Data Exports" in the right-hand menu bar:
 Next, you will want to press the two buttons for "Request new classification export" and "Request new subject export":
 
 <p align="center">
-<img src="images/3-data-exports-requests.png?raw=true" alt="A screenshot that shows the relevant buttons to press on the Zooniverse Data Exports page" style="width:1000px;" title="Screenshot of Zooniverse Data Exports page" />
+<img src="images/3-data-exports-requests.png?raw=true" alt="A screenshot that shows the relevant buttons to press on the Zooniverse Data Exports page" style="width:800px;" title="Screenshot of Zooniverse Data Exports page" />
 </p>
 
 ### 5. :pushpin: Await the completed download
@@ -85,7 +85,7 @@ Note that clicking the link "Download from your lab data exports page" in the co
 
 Once you are back to the page, you need to use the correct links on the page to download the relevant CSV files:
 
-<img src="images/5-request-completed.png?raw=true" alt="A screenshot that shows the data export request completed on the Data Exports page" style="width:1000px;" title="Screenshot of the Data Exports page with the relevant links" />
+<img src="images/5-request-completed.png?raw=true" alt="A screenshot that shows the data export request completed on the Data Exports page" style="width:800px;" title="Screenshot of the Data Exports page with the relevant links" />
 
 For each of those two files, right-click and choose "Save Link As..."
 
@@ -120,7 +120,7 @@ To open the Colab Notebook, follow this link:
 Once you are inside your Colab Notebook, you need to upload the data. On the left side of the Colab interface you will see a folder called `Sample Data`. If it is hidden you can click on the icon of the folder:
 
 <p align="center">
-<img src="images/8-colab-upload.png?raw=true" alt="A screenshot that shows where to drag the files in the colab interface" style="width:1000px;" title="Screenshot of the colab interface and where to upload the files." />
+<img src="images/8-colab-upload.png?raw=true" alt="A screenshot that shows where to drag the files in the colab interface" style="width:800px;" title="Screenshot of the colab interface and where to upload the files." />
 </p>
 
 Drag and drop your files in the `sample_data` folder.
@@ -132,13 +132,13 @@ Now you are ready to start processing your data. To do so let’s move to [the n
 At this point, you simply need to click on `Runtime` and `Run all` (as suggested in the following screenshot)
 
 <p align="center">
-<img src="images/10-run-all.png?raw=true" alt="A screenshot that shows how to run all the cells of a notebook in Google Colab" style="width:1000px;" title="Screenshot of Colab's runtime options" />
+<img src="images/10-run-all.png?raw=true" alt="A screenshot that shows how to run all the cells of a notebook in Google Colab" style="width:800px;" title="Screenshot of Colab's runtime options" />
 </p>
 
 _First_, note that if you run the Colab, you will need to select "Run anyway" in this warning that will show up in your browser:
 
 <p align="center">
-<img src="images/9-colab-warning.png?raw=true" alt="A screenshot that shows the warning message displayed by Google Colab" style="width:1000px;" title="Screenshot of Colab's warning dialog" />
+<img src="images/9-colab-warning.png?raw=true" alt="A screenshot that shows the warning message displayed by Google Colab" style="width:400px;" title="Screenshot of Colab's warning dialog" />
 </p>
 
 #### :pushpin: Export your annotations
