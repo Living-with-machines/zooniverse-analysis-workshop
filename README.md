@@ -100,7 +100,7 @@ However, for the purposes of this workshop, we will work on Colab.
 ### :pushpin: Option 1: Colab
 
 #### :pushpin: Open the Colab Notebook
-:pushpin: To open the Colab Notebook, follow this link:
+To open the Colab Notebook, follow this link:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb)
 
