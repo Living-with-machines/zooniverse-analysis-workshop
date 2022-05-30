@@ -129,7 +129,7 @@ Once your notebook has finised processing the annotations, you'll see appearing 
 
 To download your annotations simply click on the three dots at the right and select download. This way you'll save a version of the processed annotations on your local machine. 
 
-<img src="images/11-download.png?raw=true" alt="A screenshot that shows how to download your processed annotations from Google Colab" style="max-width:50%;" title="Screenshot of Colab's download button" />
+<img src="images/11-download.png?raw=true" alt="A screenshot that shows how to download your processed annotations from Google Colab" style="width:400px;" title="Screenshot of Colab's download button" />
 
 
 <!--
