@@ -34,9 +34,7 @@ If you have any questions do note hesitate to get in touch with us.
 
 ## Another note before we start.. 
 
-If you are new to Jupyter Notebooks, you can follow Daniel van Strien’s ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
-
-
+Options for running a Jupyter Notebook might seem a bit confusing at first. You can install software like Anaconda, or use web-based solutions like Colab, a Google product that allows anybody to write and execute arbitrary Python code through the browser. Colab is especially well suited to machine learning, data analysis and education. If you want to know more about Notebooks, take a look at Daniel van Strien’s ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
 
 ## :pushpin: Downloading Zooniverse data
 
@@ -103,11 +101,7 @@ Now, in the first cell in our notebook, we will register the path to the classif
 
 ## :pushpin: Open the Jupyter Notebook
 
-Running a Jupyter Notebook might seem a bit confusing at the beginning. You can do so on your computer installing softwares like Anaconda, or you can use web-based solutions like Colab, a Google product that allows anybody to write and execute arbitrary Python code through the browser, and is especially well suited to machine learning, data analysis and education.
-
-If you want to know more about Notebooks and set up alternative systems, like installing Anaconda and running the Notebook on your machine, we suggest to look at Daniel van Strien’s tutorial ["Introduction to Jupyter Notebooks: the weird and the wonderful"](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful).
-
-However, for the purposes of this workshop, we will work on Colab.
+In this workshop, we will use Notebooks on Colab.
 
 ### :pushpin: Option 1: Colab
 
