@@ -1,6 +1,6 @@
 # Zooniverse: how to download and analyse your task annotations
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process-zooniverse-data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/zooniverse-analysis-workshop/blob/main/process_zooniverse_data_for_deposit.ipynb)
 
 <!-- TODO: insert DOI -->
 
